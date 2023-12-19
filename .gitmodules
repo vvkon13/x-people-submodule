@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:vvkon13/backend-users-node-express.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:vvkon13/frontend-users-react-spa.git
